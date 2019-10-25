@@ -1,4 +1,4 @@
 mysql_host: 'localhost'
 mysql_user: 'root'
-mysql_password: 'sqlpass4321'
+mysql_password: ''
 mysql_db: 'flaskapp'
